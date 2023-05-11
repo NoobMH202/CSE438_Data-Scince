@@ -1,6 +1,6 @@
 #This file contains the all the required materials for our CSE438 project
 
-Project title: A Study on Brain Tumor Detection using Image Processing Techniques: 
+Project title: A Study on Brain Tumor Detection using Image Processing Techniques
 
 Link to unlisted YouTube video:
 
