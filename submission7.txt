@@ -1,1 +1,38 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/2584794868tggwymhvtdbj
 
+Unlisted YouTube video: https://youtu.be/-t2Des1asYs
+
+
+Conference submitted paper / paper submission / login Link: https://cmt3.research.microsoft.com/User/Login
+
+
+Paper title:
+A Study on Brain Tumor Detection using Image Processing Techniques
+
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1S12NnCwbSaJDVCDd5LCD4xj6mJ3kud3cn3jf1P-bsiY/edit#slide=id.p1
+
+Paper submission date (to workshop/conference):
+11 May 2023
+
+Paper submission ID: (received) from conference/workshop
+
+
+Conference Name: ACM/IMS
+Journal of Data Science
+
+
+Conference URL: http://jds.acm.org/
+Conference Submission Date: 11-May-2023
+
+
+Group Name: Xenon
+
+Group Number: 10
+
+Group Members: 
+19301041-Mohammad Fahim 
+19301243-Zehan Ahmed 
+19301059-Kaji Sadman Sakib 
+Abdullah Al Abir-22241118
