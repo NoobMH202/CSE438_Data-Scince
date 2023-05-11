@@ -2,7 +2,7 @@
 
 Project title: A Study on Brain Tumor Detection using Image Processing Techniques
 
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/-t2Des1asYs
 
 Slide:
 https://docs.google.com/presentation/d/1S12NnCwbSaJDVCDd5LCD4xj6mJ3kud3cn3jf1P-bsiY/edit?usp=sharing
